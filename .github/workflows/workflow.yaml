@@ -3,11 +3,11 @@ name: Math Trick 3 - Chained-Web-CI
 on:
   push:
       branches:
-            - main
+         - main
 
             env:
               APP_NAME: mt3chained-web
-                LOGIN_SERVER: $ACR_SERVER_NAME
+                LOGIN_SERVER: spn-github-123579
 
                 jobs:
 
